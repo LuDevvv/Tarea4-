@@ -1,0 +1,14 @@
+node_modules/
+
+package-lock.json
+webdriver/
+
+coverage/
+
+.vscode/
+.idea/
+
+npm-debug.log
+
+chromedriver
+
